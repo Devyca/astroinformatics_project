@@ -19,3 +19,8 @@ Open the notebooks in Jupyter and run cells to reproduce the analyses.
 
 Devika B S
 
+## Related Course Repository
+
+This project is part of the course taught by **Prof. Nina Hernitschek**.  
+You can find the course materials here:  
+[astroinformatica_advanzada_2025_1](https://github.com/ninahernitschek/astroinformatica_advanzada_2025_1/tree/main)
